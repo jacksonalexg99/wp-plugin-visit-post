@@ -8,7 +8,7 @@ Version: 1.0.0
 Author URI:http://developer-wp.local
 */
 if ( ! defined( "ABSPATH" ) ) {
-	die( 'دسترسی به این صفحه را ندارید!' );
+	die( 'مجوز دسترسی به این صفحه را ندارید!' );
 }
 
 function set_visit_post( $post_id ) {
